@@ -1,5 +1,4 @@
 .grid {
-
 	position: relative;
 
 	margin:0;
@@ -11,9 +10,6 @@
 	list-style: none;
 
 	text-align: center;
-
-	
-
 }
 
 
@@ -42,7 +38,7 @@
 
 	cursor: pointer;
 
-	
+
 
 }
 
@@ -310,7 +306,7 @@ figure.effect-sarah:hover h2::after {
 
 	transform: translate3d(0,0,0);
 
-	
+
 
 }
 

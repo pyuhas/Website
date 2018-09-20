@@ -188,3 +188,18 @@ a:hover {color:#ffcc00;}
 .commentys-form input[type="text"]:focus,.commentys-form input[type="email"]:focus,.commentys-form input[type="url"]:focus,.commentys-form textarea:focus{ border-bottom-color:#000}
 .commentys-form input[type="button"]{ padding:0 36px; text-transform:uppercase; display:inline-block; font-size:14px; line-height:47px; color:#FFF; font-weight:300; text-align:center; border:none; outline:none; background-color:#fb5353; margin-top:50px; margin-bottom:60px}
 .commentys-form input[type="button"]:hover{ background-color:#ff5c5c}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  /* background-color: #2196F3; */
+  padding: 5px;
+}
+.grid-item {
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  border: 1px solid rgba(0, 0, 0, 0.9);
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+}
