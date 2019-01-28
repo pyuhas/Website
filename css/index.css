@@ -1,0 +1,51 @@
+#leftHalf {
+  float: left;
+  padding: 150px;
+}
+
+h1 {
+  font-size: 65px;
+  font-family: 'Times New Roman';
+  margin-left: 0%;
+}
+
+p {
+  float: left;
+  font-size: 21px;
+  margin-left: -5%;
+  font-family: 'Tahoma';
+  color: orange;
+}
+
+.button {
+color: white;
+background: black;
+padding: 8px 10px 8px 10px;
+border-radius: 25px;
+border: none;
+margin-left: 35%;
+font-family: 'Tahoma';
+font-size: 10px;
+}
+
+a:hover {
+text-shadow: 0px 0px 0px rgba(255, 140, 0);
+-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+transition: all 0.4s ease 0s;
+}
+
+#rightHalf {
+   background: url(images/harpa.jpg);
+   background-repeat: repeat-y;
+   margin-top: 70px;
+   margin-bottom: 0px;
+   width: 50%;
+   /* height: 100%; */
+   position: fixed;
+   right: 0px;
+
+
+
+
+}
